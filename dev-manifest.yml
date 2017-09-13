@@ -4,6 +4,5 @@ applications:
   instances: 1
   memory: 750M
   buildpack: java_buildpack
-  services:
-   - local-config-service
+  
      
